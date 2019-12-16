@@ -1,0 +1,3 @@
+src/server/uploads/* linguist-vendored
+.github/* linguist-vendored
+src/server/views/* linguist-vendored
